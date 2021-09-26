@@ -40,9 +40,6 @@ public class Employee {
             e2.showInfo1();
             e2.salaryIncrease();
             e2.showInfo2();
-            e2.showInfo1();
-            e2.salaryIncrease();
-            e2.showInfo2();
         }
     }
 }
